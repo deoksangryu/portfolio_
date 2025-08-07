@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I'm passionate about creating novel user experiences by leveraging Large Language Models (LLMs) and multimodal AI. My focus is on integrating AI into complex and dynamic environments like **game development and GUI automation** to build innovative solutions.
+I'm passionate about creating novel user experiences by leveraging Large Language Models (LLMs) and multimodal AI. My focus is on integrating AI into complex and dynamic environments like **Continuous Content Generator, LLM, Research Models and GUI Automation** to build innovative solutions.
 
 My strength lies in translating cutting-edge AI concepts into practical, real-world applications using advanced techniques like RAG, Agents, and Procedural Content Generation.
 
